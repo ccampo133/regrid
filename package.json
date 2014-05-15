@@ -1,0 +1,28 @@
+{
+  "name": "regrid",
+  "version": "0.0.0",
+  "description": "A small JavaScript module to regrid (scale up/down) arrays.",
+  "main": "regrid.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ccampo133/regrid.git"
+  },
+  "keywords": [
+    "regrid",
+    "rebin",
+    "interpolate",
+    "decimate",
+    "scale",
+    "up",
+    "down"
+  ],
+  "author": "Chris Campo <ccampo.progs@gmail.com> (https://github.com/ccampo133)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ccampo133/regrid/issues"
+  },
+  "homepage": "https://github.com/ccampo133/regrid"
+}
